@@ -11,3 +11,6 @@ Key | Function
 
 ### P.S.
 I am aware that gleam.io will eventually put you in a cooldown after repeated use, and twitter will require a phone number for new accounts. To combat this, use a VPN. If you run out of VPN's, wait for the cooldowns to end. (if they do 🤔)
+
+### P.P.S.
+Future edit. Use this in HEAVY moderation. You *will* be banned. (like I was)
